@@ -5,16 +5,6 @@ Zombie Graveyard is an intense and thrilling 3D game set in a dark and eerie gra
 
 As the player, your objective is to survive as long as possible by eliminating the zombies using various weapons and avoiding damage. Teleportation mechanics, a dynamic minimap, and an immersive score system make the game both challenging and engaging.
 
-## Table of Contents
-Overview
-Game Features
-Installation
-How to Play
-Scripts Overview
-Credits
-License
-Game Features
-
 
 Intense Zombie Combat: Battle waves of zombies with different weapons and mechanics.
 
