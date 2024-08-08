@@ -1,7 +1,9 @@
 # Zombie Graveyard - Unity Game
 
 ## Overview
-Zombie Graveyard is an intense and thrilling 3D game set in a dark and eerie graveyard filled with hordes of zombies. As the player, your objective is to survive as long as possible by eliminating the zombies using various weapons and avoiding damage. Teleportation mechanics, a dynamic minimap, and an immersive score system make the game both challenging and engaging.
+Zombie Graveyard is an intense and thrilling 3D game set in a dark and eerie graveyard filled with hordes of zombies. 
+
+As the player, your objective is to survive as long as possible by eliminating the zombies using various weapons and avoiding damage. Teleportation mechanics, a dynamic minimap, and an immersive score system make the game both challenging and engaging.
 
 ## Table of Contents
 Overview
